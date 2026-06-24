@@ -1,4 +1,6 @@
-# Portal Smart Tourism Sulawesi Utara - Multi-Paradigma Database
+# TUGAS UAS SISTEM BASIS DATA
+Database Relasional, NoSQL, dan Vektor Database
+
 
 Proyek ini merupakan Tugas Akhir UAS Mata Kuliah Basis Data yang mengimplementasikan tiga arsitektur database berbeda (Relational, NoSQL, dan Vector) untuk mengoptimalkan platform pariwisata cerdas.
 
